@@ -4,4 +4,4 @@
 
 
 Welcome to my first digital garden.
-More to come.
+More to come soon.
