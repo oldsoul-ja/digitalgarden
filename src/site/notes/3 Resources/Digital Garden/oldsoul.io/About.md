@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/digital-garden/oldsoul-io/about/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"about","dg-home-link":false,"dg-show-inline-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-pass-frontmatter":true,"fileType":"webpage","sourceType":null,"author":"oldsoul","permalink":"/about/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
+# About
 You've stumbled upon my "digital garden" of sorts: a curated collection of my singular thoughts and cumulative ideas that I tend like heirloom seeds and their resulting foliage. Maybe one day they will bear fruit, but that's not necessarily my purpose in tending this garden. Sometimes just seeing the foliage and flowers unfurl is reward enough to the casual gardener like myself. Any resulting fruit will be a bonus for the passers-by who visit.
 
 Who am I? I'm known by many online as "Oldsoul," and I rather like the moniker. I don't try to hide who I am; I simply don't broadcast it, either. [[3 Resources/Digital Garden/oldsoul.io/I'm just me|I'm just me]], and that's neither here nor there as it pertains to this digital garden: its yield is not affected by the identity of its gardener.
