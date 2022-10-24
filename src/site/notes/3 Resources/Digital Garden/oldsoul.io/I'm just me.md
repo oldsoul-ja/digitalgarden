@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/digital-garden/oldsoul-io/i-m-just-me/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"about/me","dg-home-link":false,"dg-show-inline-title":false,"dg-show-backlinks":true,"dg-show-local-graph":true,"dg-pass-frontmatter":true,"fileType":"webpage","sourceType":"nul","author":"Oldsoul","permalink":"/about/me/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-
+# I'm Just Me
 Who I am and what I do is of little importance in the grand scheme of life, as I see it. It is of less importance to the thoughts I glean and the ideas I formulate from them.
 
 Thoughts and ideas have merit and intrinsic value, whether good or bad, great or small, and I simply want to share the ones I believe to be worth sharing. Who I am or what I do stands independent of that, or at least it should. I oftentimes find that others are fond of discounting a thought or idea simply because of who put it forth, rather than by its own value or merit. They shy from quoting someone with whom they otherwise disagree with or disassociate, for example. 
