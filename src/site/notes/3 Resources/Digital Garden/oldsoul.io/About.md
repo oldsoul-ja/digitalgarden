@@ -13,13 +13,13 @@ If you came here to learn about the gardener, I'll offer you this note:
 I'm an old soul in a comparatively young-ish body. I often confuse people because I love being alone in my solitude, though I seem to be a social butterfly. I actively seek to empathize with others and see life from their perspective, even when I know I disagree with them personally. I often feel a sense of alienation or strangeness as my beliefs and desires become misaligned with the majority of people around me: and that's okay. I enjoy the little things in life and no longer feel the need to be high-maintenance. I struggle in some small degree with a sense of self-importance in that I don't care what most people think of me, but I want to be valued by and important to those who matter most to me.
 
 
->*"There is a beautiful thing inside you
-> that is thousands of years old.
+> *There is a beautiful thing inside you*
+> *that is thousands of years old.*
 > 
-> Too old to be captured in poems.
-> Too old to be loved by everyone
-> but loved so very deeply
-> by a chosen few."*
+> *Too old to be captured in poems.*
+> *Too old to be loved by everyone*
+> *but loved so very deeply*
+> *by a chosen few.*
 > **— Nikita Gill**
 
 I'm Oldsoul, and it's nice to meet you.
